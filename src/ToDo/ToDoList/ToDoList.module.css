@@ -1,0 +1,34 @@
+.items {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.items ul {
+  list-style: none;
+  padding: 1rem;
+}
+
+.items li {
+  border: 1px solid #ccc;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  background: #e8f0f2;
+}
+
+/* .items li:hover {
+  background: #c9ced0;
+} */
+
+.text {
+  color: #e8f0f2;
+  font-weight: bold;
+  font-size: 2rem;
+  margin: auto;
+}
+
+.text-container {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+}
